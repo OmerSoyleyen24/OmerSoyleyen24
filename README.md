@@ -1,7 +1,7 @@
 # Hi, I'm Omer Soyleyen 👋
 ### Frontend Engineer | React, Next.js & TypeScript Expert
 
-[cite_start]I am a **Frontend Engineer** specializing in React, Next.js, and TypeScript, focused on building maintainable and performant web applications[cite: 6]. [cite_start]I have experience in integrating real-world APIs, authentication systems, and optimizing UI performance[cite: 7].
+I am a **Frontend Engineer** specializing in React, Next.js, and TypeScript, focused on building maintainable and performant web applications.I have experience in integrating real-world APIs, authentication systems, and optimizing UI performance.
 
 ---
 
@@ -16,16 +16,16 @@
 ---
 
 ### 🌟 Professional Highlights
-- [cite_start]🚀 **E-Commerce Platform:** Developed a full frontend with reusable components, achieving an **85+ Lighthouse score** through image optimization[cite: 18, 19, 20].
-- [cite_start]📊 **Bus Reporting Dashboard:** Contributed to a real-time production codebase, reducing reporting workflow time by **~70%**[cite: 24, 25, 27].
-- 🎓 **Education:** B.Sc. [cite_start]Computer Engineering - Konya Technical University (Thesis in progress)[cite: 30, 31].
+- 🚀 **E-Commerce Platform:** Developed a full frontend with reusable components, achieving an **85+ Lighthouse score** through image optimization.
+- 📊 **Bus Reporting Dashboard:** Contributed to a real-time production codebase, reducing reporting workflow time by **~70%**.
+- 🎓 **Education:** B.Sc. Computer Engineering - Konya Technical University (Thesis in progress).
 
 ---
 
 ### 📫 Connect with Me
-- [cite_start]💼 **Portfolio:** [portfolio-website-omersoyleyen.netlify.app](https://portfolio-website-omersoyleyen.netlify.app/) [cite: 4]
-- [cite_start]📧 **Email:** [omersoyleyen24@outlook.com](mailto:omersoyleyen24@outlook.com) [cite: 2]
-- [cite_start]📍 **Location:** Eskişehir, Türkiye (Open to Remote & Relocation) [cite: 2]
+- 💼 **Portfolio:** [portfolio-website-omersoyleyen.netlify.app](https://portfolio-website-omersoyleyen.netlify.app/) 
+- 📧 **Email:** [omersoyleyen24@outlook.com](mailto:omersoyleyen24@outlook.com) 
+- 📍 **Location:** Eskişehir, Türkiye (Open to Remote & Relocation) 
 
 ---
-[cite_start]*Immediate start available for remote contract or junior frontend roles.* [cite: 35]
+*Immediate start available for remote contract or junior frontend roles.*
