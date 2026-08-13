@@ -4,7 +4,7 @@
 
 Eskişehir, Turkey | +90 (530) 378 73 03 | omersoyleyen24@outlook.com
 
-[portfolio-website-omersoyleyen.netlify.app](https://portfolio-website-omersoyleyen.netlify.app)
+[omersoyleyen-portfolio-website.netlify.app](https://omersoyleyen-portfolio-website.netlify.app)
 
 ---
 
