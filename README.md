@@ -19,10 +19,15 @@ Full-Stack AI Engineer specializing in Deep Learning, scalable backend architect
 | Category | Technologies |
 | --- | --- |
 | **AI & Machine Learning** | Neural Networks (LSTM, GRU), Time-Series Forecasting, RAG, Qdrant Vector DB, LLM Integration
+|
 | **Backend & Systems** | Python (FastAPI), Node.js, Express, Apache Kafka, PostgreSQL, RESTful APIs, Microservices
+|
 | **Frontend** | React, Next.js, TypeScript, TailwindCSS, Dynamic UI/UX, Data Visualization, State Management |
+|
 | **DevOps & Tools** | Docker, GitHub Actions (CI/CD), Railway, Netlify, Clever Cloud |
+|
 | **Languages** | Turkish (Native), English (Full Professional Proficiency - B2/C1), German (Elementary - A2)
+|
 
 ---
 
