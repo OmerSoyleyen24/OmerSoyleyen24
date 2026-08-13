@@ -1,43 +1,77 @@
-# Hi, I'm Omer Soyleyen 👋
-### Full-Stack Engineer | AI & Machine Learning Developer
+## Omer Soyleyen
 
-I am a Full-Stack Engineer specializing in high-performance web applications (React, Next.js, TypeScript) and custom Deep Learning architectures. I don't just consume third-party APIs; I build decoupled systems, implement custom neural networks from scratch, and deploy production-ready applications with robust CI/CD pipelines.
+**Full-Stack AI Engineer**
 
----
+Eskişehir, Turkey | +90 (530) 378 73 03 | omersoyleyen24@outlook.com
 
-## 🛠 Featured Projects & Proof of Work
-
-### 🧠 Custom AI Forecasting & Crypto Analytics Engine
-* **Core Engineering:** Implemented a custom neural network from scratch (without high-level wrappers) using LSTM and GRU architectures for time-series crypto price forecasting.
-* **Infrastructure:** Designed a completely decoupled system featuring automated model selection and efficient data pipeline flows.
-* **DevOps:** Automated deployment and testing workflows using GitHub Actions (CI/CD).
-
-### 🚀 Production-Grade Full-Stack E-Commerce Platform
-* **Full-Stack Ownership:** Developed the entire ecosystem independently, including the frontend application, custom backend services, database architecture, and cloud infrastructure.
-* **Performance:** Optimized bundle sizes and media assets to achieve a consistent **85+ Lighthouse score**.
-* **DevOps:** Built automated CI/CD pipelines ensuring seamless, zero-downtime deployments.
-
-### 📊 Real-Time Production Bus Reporting Dashboard
-* **Impact:** Contributed directly to a live production codebase, refactoring heavy data visualization components and **reducing the reporting workflow time by ~70%**.
+[portfolio-website-omersoyleyen.netlify.app](https://portfolio-website-omersoyleyen.netlify.app)
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Profile
+
+Full-Stack AI Engineer specializing in Deep Learning, scalable backend architectures, and modern web applications. Hands-on experience in building end-to-end AI systems, including custom time-series forecasting models (LSTM/GRU), RAG workflows with vector databases (Qdrant), and event-driven data streaming (Kafka). Open to remote or EU/UK relocation roles.
+
+---
+
+## 🧰 Core Skills & Tech Stack
 
 | Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, TailwindCSS, State Management |
-| **Backend & AI** | Python, Custom Neural Networks, LSTM, GRU, Data Visualization |
-| **DevOps & Cloud** | GitHub Actions (CI/CD), Docker, Netlify, Railway, Clever Cloud |
+| --- | --- |
+| **AI & Machine Learning** | Neural Networks (LSTM, GRU), Time-Series Forecasting, RAG, Qdrant Vector DB, LLM Integration
+
+ |
+| **Backend & Systems** | Python (FastAPI), Node.js, Express, Apache Kafka, PostgreSQL, RESTful APIs, Microservices
+
+ |
+| **Frontend** | React, Next.js, TypeScript, TailwindCSS, Dynamic UI/UX, Data Visualization, State Management |
+| **DevOps & Tools** | Docker, GitHub Actions (CI/CD), Railway, Netlify, Clever Cloud |
+| **Languages** | Turkish (Native), English (Full Professional Proficiency - B2/C1), German (Elementary - A2)
+
+ |
 
 ---
+
+## 🚀 Experience & Projects
+
+### 🧠 Full-Stack & AI Lead | FinTech Analytics & Forecasting Engine
+
+* **Core Engineering:** Implemented custom neural networks from scratch using LSTM and GRU architectures for time-series crypto and market price forecasting. Built RAG workflows with Qdrant vector databases for real-time market risk analysis.
+
+
+* **Infrastructure:** Designed a completely decoupled, event-driven system streaming high-frequency market data using Apache Kafka and optimized Python (FastAPI) backends for fast inference.
+
+
+* **DevOps:** Containerized the entire system with Docker and automated testing and deployment workflows using GitHub Actions CI/CD.
+
+
+
+### 🚌 Full-Stack Developer Intern | Eskisehir Metropolitan Municipality *(July 2024 - August 2024)*
+
+* **Impact:** Developed a full-stack real-time bus transit reporting dashboard using React, Node.js, and Express to visualize large operational datasets.
+
+
+* **Performance:** Optimized database queries and REST APIs, refactoring heavy data visualization components and **reducing the reporting workflow time by ~70%**.
+
+
+* **Features:** Created interactive charts and tables to help staff monitor real-time and historical transit metrics.
+
+---
+
+### 🛒 Full-Stack Engineer | Enterprise E-Commerce Platform
+
+* **Full-Stack Ownership:** Architected a full-stack web application independently using Next.js, TypeScript, and secure backend microservices.
+
+
+* **Performance:** Optimized bundle sizes and media assets to achieve a consistent **85+ Lighthouse score**.
+* **DevOps:** Configured containerized cloud deployment pipelines on Railway ensuring seamless, zero-downtime deployments.
 
 ## 🎓 Education
-* **BSc Computer Engineering** – Konya Technical University (Graduated)
 
----
+* **B.Sc. in Computer Engineering** – Konya Technical University *(Sep 2021 – Jun 2026)*
 
-📫 **Connect with Me:** 
-* 🌍 Portfolio: [portfolio-website-omersoyleyen.netlify.app](https://portfolio-website-omersoyleyen.netlify.app)
-* 📧 Email: omersoyleyen24@outlook.com
-* 📍 Location: Eskişehir, Türkiye (Open to Remote & Relocation)
+## Languages
+
+* **Turkish**: Native, 
+* **English**: Full Professional Proficiency (B2/C1),  
+* **German**: Elementary (A2) 
